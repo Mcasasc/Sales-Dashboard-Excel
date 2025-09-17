@@ -1,7 +1,8 @@
 # 📊 Dashboard de Ventas | Sales Dashboard  
 
 ### 🎯 Objetivo  
-El propósito de este proyecto es **analizar el rendimiento de las ventas de una empresa ficticia** mediante un **dashboard interactivo en Excel**, permitiendo identificar patrones, productos más vendidos, clientes clave y evolución temporal de las ganancias.  
+El propósito de este proyecto es **analizar el rendimiento de las ventas de una empresa ficticia** mediante un **dashboard interactivo en Excel**, permitiendo identificar patrones, productos más vendidos, clientes clave y evolución temporal de las ganancias.
+
 Analyze the sales performance of a fictitious company through an **interactive Excel dashboard**, identifying patterns, best-selling products, key customers, and profit evolution.  
 
 Este proyecto forma parte de mi **portafolio profesional** y busca demostrar habilidades en:  
