@@ -128,7 +128,7 @@ The project follows a complete workflow:
 ---
 
 ### 📸 Preview  
-![Dashboard Preview](assets/dashboard.png)  
+![Dashboard Preview](assets/dashboard-preview.png)  
 
 ---
 
