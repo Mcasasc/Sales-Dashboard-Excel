@@ -44,7 +44,7 @@ El proyecto sigue un flujo de trabajo completo:
      - Top 5 Clientes | Top 5 Customers (horizontal bar)  
      - Evolución Ventas vs Profit | Sales vs Profit Evolution (combo chart)  
      - Ventas por Categoría | Sales by Category (pie chart)
-     - 
+       
 ---
 
 ### 📸 Vista Previa  
